@@ -7,7 +7,7 @@ from kivy.uix.widget import Widget
 import time
 
 sys.set_int_max_str_digits(10000000)
-# APP SIZE
+
 
 Builder.load_file("my.kv")
 
